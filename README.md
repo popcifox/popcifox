@@ -2,14 +2,12 @@
 I'm a Web Full-Stack Developer 
 
 ## 학력
-<img src="https://img.shields.io/badge/Education-4CAF50?style=flat&logo=Google-Scholar&logoColor=white"/>
 
 | 기간 | 내용 |
 |:------:|:-----------:|
 |2020.02 ~ 2025. 02|안동대학교 (안동) 정보통신공학과 졸업 - 학점: 3.33/4.5|
 
 ## 자격증 
-<img src="https://img.shields.io/badge/Certificate-FF9800?style=flat&logo=BookStack&logoColor=white"/>
 
 | 기간 | 내용 |
 |:------:|:-----------:|
@@ -22,6 +20,9 @@ I'm a Web Full-Stack Developer
 |:------:|:-----------:|:-----------:|:------:|
 |  |  |  |  |
 |  |  |  |  |
+
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/popcifox/github-readme-stats)
+
 <!--
 **popcifox/popcifox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
