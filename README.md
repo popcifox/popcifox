@@ -21,7 +21,7 @@ I'm a Web Full-Stack Developer
 |  |  |  |  |
 |  |  |  |  |
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/popcifox/github-readme-stats)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=popcifox)](https://github.com/popcifox/github-readme-stats)
 
 <!--
 **popcifox/popcifox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
