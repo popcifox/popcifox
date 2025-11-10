@@ -29,10 +29,12 @@ I'm a Web Full-Stack Developer
 
 ## 프로젝트
 
-| 기간 | 명칭 | 내용 | 기술 | 
-|:------:|:-----------:|:-----------:|:------:|
-|  |  |  |  |
-|  |  |  |  |
+
+|            기간           |     명칭    |                                    내용                                   |                          기술                          |
+| :---------------------: | :-------: | :---------------------------------------------------------------------: | :--------------------------------------------------: |
+|          |      |     |       |
+| 2025.10.13 ~ 2025.10.24 | 학원 관리 시스템 | 에브리타임 기반 학원 관리 시스템 개발, 풀스택 담당(Frontend + API), 강사·학생·원장별 화면 및 관리 페이지 구현 | Next.js, Firebase, JavaScript, TypeScript, HTML, CSS |
+
 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=popcifox&theme=moltack)](https://github.com/popcifox)
 
